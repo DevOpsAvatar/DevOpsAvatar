@@ -30,8 +30,6 @@ I believe in continuous learning, sharing knowledge, and building practical proj
 
 ## 📫 Let’s Connect
 - [GitHub](https://github.com/DevOpsAvatar)  
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-
----
+  
 
 *Follow my journey as I level up from beginner to pro in cloud-native, secure, and scalable infrastructure!*
