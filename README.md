@@ -1,4 +1,4 @@
-# Hi, I’m DevOpsAvatar 👋
+# Hi, I’m Chigozirim Dennis👋
 
 I’m an aspiring engineer starting my journey into **Linux**, **Site Reliability Engineering (SRE)**, **Cloud Architecture**, **DevSecOps**, and **MLOps**.
 
