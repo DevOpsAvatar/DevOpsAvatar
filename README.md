@@ -1,35 +1,54 @@
-# Hi, I’m Chigozirim Dennis👋
+# Hi, I'm Dennis Chigozirim 👋
 
-I’m an aspiring engineer starting my journey into **Linux**, **Site Reliability Engineering (SRE)**, **Cloud Architecture**, **DevSecOps**, and **MLOps**.
+**Aspiring DevOps, MLOps and Cloud engineer.** I'm teaching myself the craft through hands-on projects, and I write up every one of them: what I built, what broke, and what I learned.
 
----
-
-## 🎯 My Goals
-- Build a strong foundation in Linux and Bash scripting  
-- Master cloud platforms like AWS and Azure  
-- Learn to design and maintain reliable, scalable infrastructure  
-- Automate deployments and monitoring using DevOps & DevSecOps best practices  
-- Explore machine learning pipelines and MLOps workflows  
+[🌐 Portfolio](https://devopsavatar.github.io) · [💼 LinkedIn](https://www.linkedin.com/in/chigozirim-dennis-243ba237b/) · [📁 Cloud projects](https://github.com/DevOpsAvatar/cloud-architecture-projects-AWS-Azure-GCP) · [🧪 Lab](https://github.com/DevOpsAvatar/lab)
 
 ---
 
-## 🚀 What I’m Learning Right Now
-- Linux basics and shell scripting  
-- Docker containers and Kubernetes fundamentals  
-- Infrastructure as Code with Terraform  
-- CI/CD pipelines with GitHub Actions  
-- Security principles in DevOps (DevSecOps basics)  
-- Introduction to MLOps tools and practices  
+## 🛠️ What I've built so far
+
+| Project | What it shows | Tools |
+| --- | --- | --- |
+| [Launch a Kubernetes cluster on Amazon EKS](https://github.com/DevOpsAvatar/cloud-architecture-projects-AWS-Azure-GCP/tree/main/launch-a-kubernetes-cluster) | Created a managed cluster with `eksctl`, tracked it in CloudFormation, granted access with an IAM access entry, and watched the node group replace deleted nodes on its own. | Amazon EKS, eksctl, CloudFormation, IAM, EC2 |
+| [Build a Kubernetes controller](https://github.com/DevOpsAvatar/lab/tree/main/build-a-kubernetes-controller) | Wrote a custom controller whose reconciliation loop restores the desired replica count after manual changes and reports status back to the API server. | Go, Kubebuilder, kind, kubectl, CRDs |
+| [Host a website on Amazon S3](https://github.com/DevOpsAvatar/cloud-architecture-projects-AWS-Azure-GCP/tree/main/aws-host-a-website-on-s3) | Hosted a static site on S3, diagnosed a 403 Forbidden error, and fixed it by changing access permissions. | Amazon S3, static website hosting, ACLs |
+
+More are on the way. I add each one as soon as I finish it.
 
 ---
 
-## 📚 Why I’m Here
-I believe in continuous learning, sharing knowledge, and building practical projects to grow. I’m excited to connect with others, collaborate, and build cool, resilient systems.
+## 🧰 Tools and skills
+
+| Area | What I work with |
+| --- | --- |
+| Cloud | AWS (EC2, S3, EKS, IAM, CloudFormation), Azure and GCP basics |
+| Containers and orchestration | Kubernetes, Docker, kind, kubectl, eksctl, Kubebuilder |
+| Languages | Go, Bash |
+| CI/CD | Jenkins, GitHub Actions |
+| Infrastructure as code | CloudFormation, Terraform (learning) |
+| Where I'm heading | DevSecOps, observability, MLOps pipelines |
 
 ---
 
-## 📫 Let’s Connect
-- [GitHub](https://github.com/DevOpsAvatar)  
-  
+## 🎯 What I'm working on now
 
-*Follow my journey as I level up from beginner to pro in cloud-native, secure, and scalable infrastructure!*
+- Learning **Jenkins** and CI/CD pipelines
+- Going deeper into **Kubernetes**, including operators and admission webhooks
+- Building **Infrastructure as Code** skills with Terraform
+- Building a Linux and Bash scripting foundation
+- Working toward **MLOps**: packaging and deploying machine learning workflows
+
+---
+
+## 💡 How I work
+
+- **Build it, break it, write it up.** Every project gets a README with the problems I hit and how I fixed them.
+- **Clean up after myself.** I delete cloud resources when I'm done so I don't run up costs.
+- **Show progress in public.** My repos and portfolio are the record of how I'm improving.
+
+---
+
+## 📫 Let's connect
+
+I'm open to learning opportunities, collaboration and conversations with people working in DevOps and cloud. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/chigozirim-dennis-243ba237b/).
