@@ -10,6 +10,7 @@
 
 | Project | What it shows | Tools |
 | --- | --- | --- |
+| [Deploy a backend with Kubernetes](https://github.com/DevOpsAvatar/cloud-architecture-projects-AWS-Azure-GCP/tree/main/deploy-backend-with-kubernetes) | Applied Deployment and Service manifests with `kubectl` to run a Flask backend on EKS, then verified in the EKS console that the pods pulled the image from ECR and started cleanly. | Kubernetes, kubectl, Amazon EKS, ECR, Docker, IAM |
 | [Create Kubernetes manifests](https://github.com/DevOpsAvatar/cloud-architecture-projects-AWS-Azure-GCP/tree/main/create-kubernetes-manifests) | Wrote Deployment and Service manifests that run a Flask backend from Amazon ECR on EKS and route traffic to its pods with a NodePort Service. | Kubernetes, YAML manifests, Amazon EKS, ECR, Docker |
 | [Set up a Kubernetes deployment on EKS](https://github.com/DevOpsAvatar/cloud-architecture-projects-AWS-Azure-GCP/tree/main/set-up-kubernetes-deployment) | Created a three-node EKS cluster, built a Docker image of a Flask backend, and pushed it to Amazon ECR so the cluster can pull it. | Amazon EKS, ECR, Docker, Flask, eksctl, kubectl |
 | [Launch a Kubernetes cluster on Amazon EKS](https://github.com/DevOpsAvatar/cloud-architecture-projects-AWS-Azure-GCP/tree/main/launch-a-kubernetes-cluster) | Created a managed cluster with `eksctl`, tracked it in CloudFormation, granted access with an IAM access entry, and watched the node group replace deleted nodes on its own. | Amazon EKS, eksctl, CloudFormation, IAM, EC2 |
