@@ -27,7 +27,7 @@ More are on the way. I add each one as soon as I finish it.
 | --- | --- |
 | Cloud | AWS (EC2, S3, EKS, IAM, CloudFormation), Azure and GCP basics |
 | Containers and orchestration | Kubernetes, Docker, kind, kubectl, eksctl, Kubebuilder |
-| Languages | Go, Bash |
+| Languages | Python, Bash |
 | CI/CD | Jenkins, GitHub Actions |
 | Infrastructure as code | CloudFormation, Terraform (learning) |
 | Where I'm heading | DevSecOps, observability, MLOps pipelines |
