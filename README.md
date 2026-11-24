@@ -36,9 +36,9 @@ More are on the way. I add each one as soon as I finish it.
 
 ## 🏅 Badges
 
-<a href="https://trainingportal.linuxfoundation.org/courses/introduction-to-linux-lfs101"><img src="badges/lfs101-introduction-to-linux.png" alt="Introduction to Linux (LFS101) badge from The Linux Foundation" width="150" align="left"></a>
+<a href="https://www.credly.com/badges/7b38863d-0ec8-4153-b35d-7744be24d97c/public_url"><img src="badges/lfs101-introduction-to-linux.png" alt="Introduction to Linux (LFS101) badge from The Linux Foundation" width="150" align="left"></a>
 
-**Introduction to Linux (LFS101)**, The Linux Foundation. I completed this course to build my foundation in Linux system administration.
+**Introduction to Linux (LFS101)**, The Linux Foundation. I completed this course to build my foundation in Linux system administration. [Verify the badge on Credly](https://www.credly.com/badges/7b38863d-0ec8-4153-b35d-7744be24d97c/public_url).
 
 <br clear="left">
 
