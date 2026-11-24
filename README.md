@@ -34,6 +34,16 @@ More are on the way. I add each one as soon as I finish it.
 
 ---
 
+## 🏅 Badges
+
+<a href="https://trainingportal.linuxfoundation.org/courses/introduction-to-linux-lfs101"><img src="badges/lfs101-introduction-to-linux.png" alt="Introduction to Linux (LFS101) badge from The Linux Foundation" width="150" align="left"></a>
+
+**Introduction to Linux (LFS101)**, The Linux Foundation. I completed this course to build my foundation in Linux system administration.
+
+<br clear="left">
+
+---
+
 ## 🎯 What I'm working on now
 
 - Learning **Jenkins** and CI/CD pipelines
