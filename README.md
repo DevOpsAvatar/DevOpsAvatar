@@ -1,6 +1,6 @@
 # Hi, I'm Dennis Chigozirim 👋
 
-**Aspiring DevOps, MLOps and Cloud engineer.** I'm teaching myself the craft through hands-on projects, and I write up every one of them: what I built, what broke, and what I learned.
+**Cloud/DevOps Engineer.** I'm teaching myself the craft through hands-on projects, and I write up every one of them: what I built, what broke, and what I learned.
 
 [🌐 Portfolio](https://devopsavatar.github.io) · [💼 LinkedIn](https://www.linkedin.com/in/chigozirim-dennis-243ba237b/) · [📁 Cloud projects](https://github.com/DevOpsAvatar/cloud-architecture-projects-AWS-Azure-GCP) · [🧪 Lab](https://github.com/DevOpsAvatar/lab)
 
@@ -27,7 +27,7 @@ More are on the way. I add each one as soon as I finish it.
 | --- | --- |
 | Cloud | AWS (EC2, S3, EKS, IAM, CloudFormation), Azure and GCP basics |
 | Containers and orchestration | Kubernetes, Docker, kind, kubectl, eksctl, Kubebuilder |
-| Languages | Python, Bash |
+| Scripting | Bash |
 | CI/CD | Jenkins, GitHub Actions |
 | Infrastructure as code | CloudFormation, Terraform (learning) |
 | Where I'm heading | DevSecOps, observability, MLOps pipelines |
